@@ -117,7 +117,7 @@ void setup() {
 }
 
 // --------------------
-// Loop
+
 // --------------------
 void loop() {
   if (!client.connected()) {
